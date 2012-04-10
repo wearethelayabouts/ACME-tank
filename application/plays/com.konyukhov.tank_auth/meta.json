@@ -1,0 +1,7 @@
+{
+	"bundle":		"com.konyukhov.tank_auth",
+	"description":	"Tank Auth",
+	"author":		"Ilya Konyukhov",
+ 
+	"contents": ["com.konyukhov.tank_auth.auth"]
+}

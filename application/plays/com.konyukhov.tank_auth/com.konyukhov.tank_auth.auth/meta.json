@@ -1,0 +1,14 @@
+{
+	"bundle":		"com.konyukhov.tank_auth.auth",
+	"play":			"com.konyukhov.tank_auth",
+	"description":	"Tank Auth Connector",
+	"author":		"Ilya Konyukhov",
+	"type":			"auth",
+	
+	"actor": {
+		"libraries": [
+			"tank_auth"
+		],
+		"auth":		"tank_auth"
+	}
+}
